@@ -14,6 +14,6 @@ _You need to have React Native installed on your machine prior to the following_
 
 If you find any issues please open an issue or, even better, open a PR to expedite the fix. Thanks!
 
-## alert 
+## Alert 
 
 This and a prototype exclusively for educational purposestion
