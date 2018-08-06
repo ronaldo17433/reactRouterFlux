@@ -5,8 +5,8 @@ A basic overview of using [`react-native-router-flux`](https://github.com/aksono
 
 _You need to have React Native installed on your machine prior to the following_
 
-- `git clone git@github.com:ronaldo17433/reactRouterFlux.git
-- `cd reactRouterFlux
+- `git clone git@github.com:ronaldo17433/reactRouterFlux.git`
+- `cd reactRouterFlux`
 - `npm install`
 - `react-native run-ios` OR `react-native run-android`
 
